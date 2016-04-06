@@ -1,8 +1,8 @@
 # onehundred
 
-##Hello World!
+Hello World!
 
-Initial Goal: I'll be coding for a hundred days consecutively to practice coding on java. <br \>
+######Initial Goal: I'll be coding for a hundred days consecutively to practice coding on java. <br \>
 
 Day 1: HackNY - worked on thefoodpla.net<br \>
 Day 2: HackNY - used my own github to demo, sadly, we didn't do anything with the API but showed our idea via a webpage which is essentially powerpoint 2.0... :(<br \>
