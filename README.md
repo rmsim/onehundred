@@ -10,3 +10,5 @@ Day 3: Coded on hackerrank;<br \>
 Day 4: Reorganized thefoodplanet.zip into this onehundred folder; start to work on my own webpage (which tbh, is not as interesting as working on hackerrank right now)<br \>
 Day 5: Completed all Intro problems for Java8 @ hackerrank<br \>
 Day 6: Started working on Java8 Strings @ hackerrank<br \>
+Day 7: Using Strings compareTo methods to sort strings (and substrings) lexicographically<br \>
+Day 8: Playing around with String methods to check for palindromes and anagrams<br \>
