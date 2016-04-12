@@ -12,3 +12,5 @@ Day 5: Completed all Intro problems for Java8 @ hackerrank<br \>
 Day 6: Started working on Java8 Strings @ hackerrank<br \>
 Day 7: Using Strings compareTo methods to sort strings (and substrings) lexicographically<br \>
 Day 8: Playing around with String methods to check for palindromes and anagrams<br \>
+Day 9: Learnt what Regex is and try to apply what I learnt on HackerRank<br \>
+Day 10: Attended an ADI session on collaborating on GitHub<br \>
