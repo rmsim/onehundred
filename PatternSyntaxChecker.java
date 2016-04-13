@@ -14,31 +14,17 @@ public class PatternSyntaxChecker {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int testCases = Integer.parseInt(in.nextLine());
-		regexChecker("[A-Z]\\[\\]\\(\\.\\+\\)", pattern);
-		while(testCases>0) {
-			String pattern = in.nextLine();
-			if (regexChecker == "true") {
+
+		for (int i = 0; i < testCases; i++) {
+			String regex = in.nextLine();
+			try {
+				Pattern.compile(regex);
 				System.out.println("Valid");
-
-			}  else {
+			} catch(PatternSyntaxException e) {
 				System.out.println("Invalid");
-			}     
+			}
+			
 		}    
-	}
-
-	public static void regexChecker (String theRegex, String pattern) {
-		Pattern checkRegex = pattern.compile(theRegex);
-		Matcher regexMatcher = checkRegex.matcher(pattern);
-
-		while(regex.Matcher.find()) {
-			if (regex.Matcher.group().length() != 0) {
-				System.out.println(regexMatcher.group().trim());
-				System.out.println("true");
-			} 
-
-
-		}
-
 	} 
 }
 
