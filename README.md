@@ -14,3 +14,4 @@ Day 7: Using Strings compareTo methods to sort strings (and substrings) lexicogr
 Day 8: Playing around with String methods to check for palindromes and anagrams<br \>
 Day 9: Learnt what Regex is and try to apply what I learnt on HackerRank<br \>
 Day 10: Attended an ADI session on collaborating on GitHub<br \>
+Day 11: Used pattern.compile and understood what it could do. Signed up for Regex contest & Women CodeSprint on Hackerrank.<br \>
