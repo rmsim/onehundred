@@ -20,4 +20,4 @@ Day 13: Join AdInfinitum contest only to realize that the math problems are so m
 Day 14: Don't think I'll be REGEX queen anytime soon, but did the IntroTutorial question for the AdInfinitum contest on HackerRank<br \>
 Day 15: Did an inheritance problem on hackerrank<br \>
 Day 16: Did a try-catch problem on hackerrank<br \>
-Day 17: Manage to spot my own mistake and make a little reminder to myself about Boolean || <br \>
+Day 17: Manage to spot my own mistake and make a little reminder to myself about Boolean ||; I also learn that there is a BigInteger class in Java today<br \>
