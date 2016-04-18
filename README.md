@@ -17,4 +17,6 @@ Day 10: Attended an ADI session on collaborating on GitHub<br \>
 Day 11: Used pattern.compile and understood what it could do. Signed up for Regex contest & Women CodeSprint on Hackerrank.<br \>
 Day 12: Do more problems on Hackerrank<br \>
 Day 13: Join AdInfinitum contest only to realize that the math problems are so much more difficult than the coding<br \>
-Day 14: Don't think I'll be REGEX queen anytime soon, did an inheritance problem on hackerrank<br \>
+Day 14: Don't think I'll be REGEX queen anytime soon, but did the IntroTutorial question for the AdInfinitum contest on HackerRank<br \>
+Day 15: Did an inheritance problem on hackerrank<br \>
+Day 16: Did a try-catch problem on hackerrank<br \>
