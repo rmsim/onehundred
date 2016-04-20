@@ -21,3 +21,5 @@ Day 14: Don't think I'll be REGEX queen anytime soon, but did the IntroTutorial 
 Day 15: Did an inheritance problem on hackerrank<br \>
 Day 16: Did a try-catch problem on hackerrank<br \>
 Day 17: Manage to spot my own mistake and make a little reminder to myself about Boolean ||; I also learn that there is a BigInteger class in Java today<br \>
+Day 18: Worked on another inheritance problem on hackerrank, not too sure why my own main method didn't run but the class was accepted and it worked on HackerRank<br \>
+Day 19: Working on Topological Sort for school<br \>
