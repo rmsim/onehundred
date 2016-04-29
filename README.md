@@ -25,3 +25,4 @@ Day 18: Worked on another inheritance problem on hackerrank, not too sure why my
 Day 19: Working on Topological Sort for school<br \>
 Day 20: Made TopSort and implemented Dijkstra's Algo. for school<br \>
 Day 21: CODESPRINT<br \>
+FINALS-HIATUS :( bye bye streak
