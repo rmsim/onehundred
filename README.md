@@ -1,6 +1,6 @@
 # onehundred
 
-## Hello World!
+Hello World!
 
 Initial Goal: I'll be coding for a hundred days consecutively to practice coding on java. 
 
