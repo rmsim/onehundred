@@ -4,6 +4,16 @@ Hello World!
 
 `Goal` I'll be coding for a hundred days consecutively to practice coding on java. 
 
+## Back to my goal:
+
+Try and fail again, and then try more and fail more.
+
+Hello, I'm back!
+
+`001` Got started on LeetCode
+
+I thought I had to write a main class too to check my output but turns out, the TwoSum question didn't care for that, they just want us to write the function. Good to know. 
+
 ### Previous log: 
 `001` HackNY - worked on thefoodpla.net
 `002` HackNY - used my own github to demo, sadly, we didn't do anything with the API but showed our idea via a webpage which is essentially powerpoint 2.0... :(
@@ -26,13 +36,3 @@ Hello World!
 `019` Working on Topological Sort for school
 `020` Made TopSort and implemented Dijkstra's Algo for school
 `021` CODESPRINT.... and lost my streak
-
-## Back to my goal:
-
-Try and fail again, and then try more and fail more.
-
-Hello, I'm back!
-
-### 001: Got started on LeetCode
-
-I thought I had to write a main class too to check my output but turns out, the TwoSum question didn't care for that, they just want us to write the function. Good to know. 
